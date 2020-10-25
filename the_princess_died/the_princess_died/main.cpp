@@ -81,7 +81,7 @@ int main() {
 			transition();
 		}
 
-		if (continueGame) { //The Pit of Despain
+		if (continueGame) { //The Pit of Despair
 			continueGame = game.run_pit();
 			transition();
 		}
